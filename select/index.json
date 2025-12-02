@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "トライアングラー",
+  "base_artist": "坂本真綾",
+  "createdAt": "2025-12-02T01:15:16.486126Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "トライアングラー",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/01_トライアングラー_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "トライアングラー",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/02_トライアングラー_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Triangler [トライアングラー]",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/03_Triangler_[トライアングラー]_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Triangler [トライアングラー]",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/04_Triangler_[トライアングラー]_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "トライアングラー",
+      "artist": "HIME☆MATSURI",
+      "has_synced": false,
+      "path": "select/05_トライアングラー_HIME☆MATSURI.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Triangler [トライアングラー]",
+      "artist": "HIME★MATSURI",
+      "has_synced": false,
+      "path": "select/06_Triangler_[トライアングラー]_HIME★MATSURI.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "トライアングラー",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/07_トライアングラー_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "トライアングラー",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/08_トライアングラー_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "トライアングラー",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/09_トライアングラー_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "トライアングラー (w/o maaya)",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/10_トライアングラー_(w_o_maaya)_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "トライアングラー",
+      "artist": "マクロスF",
+      "has_synced": false,
+      "path": "select/11_トライアングラー_マクロスF.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トライアングラー",
+      "artist": "シェリル·ノーム&ランカ·リー",
+      "has_synced": false,
+      "path": "select/pl_01_トライアングラー_シェリル·ノーム&ランカ·リー.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "トライアングラー",
+      "artist": "シェリル·ノーム&ランカ·リー",
+      "has_synced": false,
+      "path": "select/pl_02_トライアングラー_シェリル·ノーム&ランカ·リー.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "トライアングラー",
+      "artist": "シェリル·ノーム&ランカ·リー",
+      "has_synced": false,
+      "path": "select/pl_03_トライアングラー_シェリル·ノーム&ランカ·リー.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "トライアングラー(fight on stage)",
+      "artist": "シェリル·ノーム&ランカ·リー",
+      "has_synced": false,
+      "path": "select/pl_04_トライアングラー(fight_on_stage)_シェリル·ノーム&ランカ·リー.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "トライアングラー",
+      "artist": "シェリル·ノーム&ランカ·リー",
+      "has_synced": false,
+      "path": "select/pl_05_トライアングラー_シェリル·ノーム&ランカ·リー.txt"
+    }
+  ]
+}
