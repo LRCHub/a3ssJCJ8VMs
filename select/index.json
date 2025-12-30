@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "トライアングラー",
   "base_artist": "坂本真綾",
-  "createdAt": "2025-12-02T01:15:16.486126Z",
+  "createdAt": "2025-12-30T16:43:34.232361Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -96,41 +96,9 @@
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "トライアングラー",
-      "artist": "シェリル·ノーム&ランカ·リー",
+      "artist": "坂本 真綾",
       "has_synced": false,
-      "path": "select/pl_01_トライアングラー_シェリル·ノーム&ランカ·リー.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "トライアングラー",
-      "artist": "シェリル·ノーム&ランカ·リー",
-      "has_synced": false,
-      "path": "select/pl_02_トライアングラー_シェリル·ノーム&ランカ·リー.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "トライアングラー",
-      "artist": "シェリル·ノーム&ランカ·リー",
-      "has_synced": false,
-      "path": "select/pl_03_トライアングラー_シェリル·ノーム&ランカ·リー.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "トライアングラー(fight on stage)",
-      "artist": "シェリル·ノーム&ランカ·リー",
-      "has_synced": false,
-      "path": "select/pl_04_トライアングラー(fight_on_stage)_シェリル·ノーム&ランカ·リー.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "トライアングラー",
-      "artist": "シェリル·ノーム&ランカ·リー",
-      "has_synced": false,
-      "path": "select/pl_05_トライアングラー_シェリル·ノーム&ランカ·リー.txt"
+      "path": "select/pl_01_トライアングラー_坂本_真綾.txt"
     }
   ]
 }
